@@ -1,0 +1,167 @@
+,0
+box_grap_hand_tight_strong,3
+tiger_tight_time_,7
+tiger_loose_time_,7
+polethread_out_circle_number,30
+pole_taile_mother_thread_out_circle_numeber,3
+tiger_dirll_pole_pole_tight_max_pressure,2
+tiger_dirll_pole_pole_tight_max_pressure_level,2
+pole_loose_need_mini_circle_drill_level,-4
+pole_loose_need_mini_circle,5
+pole_taile_mother_thread_out_pressure,7
+Equepment_pole_push_pull,TextLabel
+pole_in_middle_tiger_tooth,80
+pole_in_middle_tiger_tooth_tiggerback,0
+pole_in_middle_tiger_tooth_to_taile,490
+pole_in_middle_tiger_tooth_to_taile_tofaward,0
+beam_taile_5cm,0
+pole_pull_back_can_out_box_hand_to_grap,0
+main_beam_last_pole_up_down_expangd_hole,13000
+man_give_pole_place,0
+man_give_pole_place_back_last_point,0
+man_can_get_out_pole_coordinate,1850
+box_updown_column_up,230
+box_updown_bottom,0
+box_updown_column_can_grap,170
+point_beam_grap,0
+box_grap_to_beam_the_relax_hand_point_and_next_to_holed_pole,0
+hand_box_unstop_beam_driving_coordinate,0
+_drill_box_grap_hand_tight_slight,0.5
+"('Equepment_pole_push_pull', 'start')","(22, 33, 44, 3)"
+"('Equepment_pole_push_pull', 'stop')","(0, 0, 0.0, 3)"
+"('Equepment_pole_push_pull', 'end')","(22, 33, 44, 3)"
+"('Equepment_pole_dirll', 'start')","(0, 0, 0, 3)"
+"('Equepment_pole_dirll', 'stop')","(0, 0, 0.0, 3)"
+"('Equepment_pole_dirll', 'end')","(0, 0, 0.0, 3)"
+"('Equepment_tigger_tooch_f', 'start')","(0, 0, 0.0, 3)"
+"('Equepment_tigger_tooch_f', 'stop')","(0, 0, 0.0, 3)"
+"('Equepment_tigger_tooch_f', 'end')","(0, 0, 0.0, 3)"
+"('Equepment_tigger_tooch_b', 'start')","(0, 0, 0.0, 3)"
+"('Equepment_tigger_tooch_b', 'stop')","(0, 0, 0.0, 3)"
+"('Equepment_tigger_tooch_b', 'end')","(22, 33, 44, 3)"
+"('Equepment_tigger_drill', 'start')","(0, 0, 0.0, 3)"
+"('Equepment_tigger_drill', 'stop')","(0, 0, 0.0, 3)"
+"('Equepment_tigger_drill', 'end')","(0, 0, 0.0, 3)"
+dirll_box_inner_column_1_distance,0
+dirll_box_inner_column_2_distance,0
+dirll_box_inner_column_3_distance,0
+dirll_box_inner_column_4_distance,0
+angle_0_corectting,0
+tiger_backward_move_max_coordinate,170
+tiger_self_middle_zero_coordinate_,101
+tiger_coordinate_beam_not_reach_beamself_slot,3
+tiger_forward_move_max_coordinate,30
+tiger_dirll_pole_pole_tight_push_max_pressure_level,2
+tiger_dirll_pole_pole_tight_push_max_pressure,2
+tiger_coordinate_beam_reached_beamself_slot,2
+first_point_coordinate,1200
+second_point_coordinate,1240
+fourth_point_coordinate,1320
+third_point_coordinate,1280
+second_point_coordinate_delta,15
+first_point_coordinate_map_tiger_ruler_range,15
+first_point_coordinate_delta,15
+second_point_coordinate_map_tiger_ruler_range,15
+third_point_coordinate_delta,15
+third_point_coordinate_map_tiger_ruler_range,15
+fourth_point_coordinate_delta,15
+fourth_point_coordinate_map_tiger_ruler_range,15
+drill_box_grap_hand_relax_full,3
+drill_box_grap_hand_relax_half,0.5
+drill_box_grap_hand_relax_greater_part,0.8
+drill_box_grap_hand_tight_greater_strong,0.8
+first_point_characteristic_success_value,5
+Equepment_line_distance_measure_4m_beam_coordinate_delta,15
+Equepment_line_distance_measure_beam_taile_coordinate_delta,5
+Equepment_line_distance_measure_beam_head_coordinate_delta,5
+Equepment_line_distance_measure_dirll_box_updown_coordinate_delta,5
+pole_point_delta,6
+beam_push_pull_in_tiger_step_distance,40
+delta_contrast_beam_ruler_tiger_ruler,6
+Equepment_pole_push_pull_data_coordinate,"[1.0, 2.0, 3.0]"
+pole_in_middle_tiger_tooth_coordinate,460
+pole_in_middle_tiger_tooth_cycle_number,760
+pole_in_middle_tiger_tooth_tiggerback_cycle_number,4
+pole_in_middle_tiger_tooth_to_taile_coordinate,5
+pole_in_middle_tiger_tooth_to_taile_cycle_number,6
+man_give_pole_place_coordinate,2500
+man_give_pole_place_cycle_number,2500
+man_give_pole_place_back_last_point_coordinate,1800
+man_give_pole_place_back_last_point_cycle_number,18
+the_new_point_man_can_let_pole_out_beam_coordinate,1100
+the_new_point_man_can_let_pole_out_beam_cycle_number,1100
+point1_coordinate,24
+point1_cycle_number,25
+point2_coordinate,26
+point2_cycle_number,27
+point3_coordinate,28
+point3_cycle_number,29
+point_beam_grap_coordinate,30
+point_beam_grap_cycle_number,31
+box_grap_to_beam_the_relax_hand_point_and_next_to_holed_pole_coordinate,93
+box_grap_to_beam_the_relax_hand_point_and_next_to_holed_pole_cycle_number,93
+point_unstop_beam_coordinate,64
+point_unstop_beam_cycle_number,35
+main_beam_last_pole_up_down_expangd_hole_coordinate,13
+main_beam_last_pole_up_down_expangd_hole_cycle_number,14
+pole_pull_back_can_out_box_hand_to_grap_coordinate,11
+pole_pull_back_can_out_box_hand_to_grap_cycle_number,12
+beam_taile_5cm_coordinate,9
+beam_taile_5cm_cycle_number,10
+box_updown_column_can_grap_coordinate,23
+pole_in_middle_tiger_tooth_to_taile_tofaward_coordinate,7
+pole_in_middle_tiger_tooth_to_taile_tofaward_cycle_number,8
+pole_in_middle_tiger_tooth_tiggerback_coordinate,3
+Equepment_tigger_drill_coordinate,"[3333.0, 444.0, 56666.0, 3]"
+Equepment_pole_push_pull_coordinate,"[0, 3.0, 0, 3]"
+Equepment_pole_dirll_coordinate,"[4.0, 5.0, 6.0, 3]"
+Equepment_tigger_tooch_f_coordinate,"[3.0, 4.0, 5.0, 3]"
+Equepment_tigger_tooch_b_coordinate,"[3.0, 4.0, 5.0, 3]"
+warter_deep_safe,13
+beam_head_coordinate,0
+beam_tail_coordinate,46000
+MAX_PUSH_QUICK_PRESSURE,17
+MAX_PUSH_SLOW_PRESSURE,25
+MAX_DRILL_QUICK_PRESSURE,25
+MAX_DRILL_SLOW_PRESSURE,35
+MINI_ANGLE_SPEED,70
+fouoint_coordinate_map_tiger_rurth_pler_range,22
+pole_mather_thread_on_beam_can_counter_drill_out,17000
+main_beam_of_the_tigger_point_delta,15
+thread_tight_tight_level,2
+polethread_out_circle_number_intiger,20
+pole_recircle_times_into_hole_break_time,3
+tiger_outer_rule_grap,0
+tiger_outer_rule_relax,100
+tiger_inner_rule_grap,110
+tiger_inner_rule_relax,35
+tiger_self_ruler_coordinate_delta,4
+no_load_move_parameter_contrl_distance,150
+tiger_dirll_pole_pole_loose_max_pressure,3
+delta_water_deepcheck_time,122
+tiger_dirll_pole_and_poletight_max_pressure,3
+speed_contrl_function_distance,250
+speed_contrl_function_speed_contral_rangge,20
+speed_contrl_function_delt_mini_speed,20
+first_point_characteristic_value,30
+taile_thread_is_ok_point_coordinate,1270
+taile_thread_is_ok_point_coordinate_delat,20
+taile_thread_is_ok_point_coordinate_map_tiger_ruler_range,20
+tiger_touch_delta,4
+Equepment_line_distance_measure_beam_taile_point_beam_solt_top,180
+no_load_move_start_level,6
+no_load_move_end_level,3
+no_load_move_to_coordinnate_point_max_pressure,3
+delta_time_grap_faile_time,0.2
+beam_movement_speed_delta_time,0.1
+beam_angle_speed_delta_time,0.1
+_pressure_torque_sameping_delta_time,0.1
+pressure_push_pull_sameping_delta_time,0.1
+pole_loose_need_mini_angle,1
+first_successtaile,30
+first_success_both,180
+beam_jog_move_move_start_level,2
+beam_jog_drill_start_level,1
+delta_drill_box_hand_run_coordinate,7
+current_pole_number_in_hole,0
+current_pole_distance_not_in_hole,2500

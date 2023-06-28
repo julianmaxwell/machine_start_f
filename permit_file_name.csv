@@ -1,0 +1,11 @@
+operator_id,operator_name,machine_id,active,company,permit_function_name,registered_time
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,machine_equepment_instantaneous_read_data,1645430878
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,operator_top_forward,1645430878
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,operator_top_forward_manual,1645430878
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,operator_top_backward_auto,1645430878
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,beam_hydraulic_poer_head_both_rotate_and_pull_push,1645430878
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,horizontalslider_operation_push_pull_gear,1645430878
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,horizontalslider_operation_drill_gear,1645430878
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,uui_main_window_obj_ui_form_dirll_box_every_pole_distance_pushButton_35,1645430878
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,test_every_pole_power_distance_,1645430878
+O00001,张山,b'\x80\x04\x95(\x00\x00\x00\x00\x00\x00\x00\x8c\x10BFEBFBFF000506E3\x94\x8c\x0f160367211000249\x94\x86\x94.',True,和太,first_point_coordinate_analysis_manual_process_ok,1645430878
